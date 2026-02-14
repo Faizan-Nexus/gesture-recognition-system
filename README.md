@@ -264,6 +264,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 
-**Made with ❤️ by the <Muhammad Faizan Anjum Shah>**
+**Made with ❤️ by the Muhammad Faizan Anjum Shah**
 
 **Last Updated**: February 14, 2026 | **Version**: 1.0
